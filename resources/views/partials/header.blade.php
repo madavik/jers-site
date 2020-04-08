@@ -1,5 +1,5 @@
 <section class="et-hero-tabs">
-    <h1>Jer Jackson</h1>
+    <h1>JJ      er Jackson</h1>
     <h3 class="mt-3">a few things</h3>
     <div class="et-hero-tabs-container">
         <a class="et-hero-tab" href="#tab-lighter">Light</a>
