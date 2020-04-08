@@ -12,7 +12,7 @@
                         <iframe src="https://player.vimeo.com/video/404787912" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                     </div>
                     </div>
-                    <h3 class="mt-3">Devil Music</h3>
+                    <h3 class="mt-3">Devil Music. Trailer</h3>
                 </div>
             </div>
             <div class="row pt-5 my-5">
@@ -42,7 +42,7 @@
                         <iframe src="https://player.vimeo.com/video/251265477" width="100%" height="100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                     </div>
                     </div>
-                    <h3 class="mt-3">Heavy Metal Thunder</h3>
+                    <h3 class="mt-3">Heavy Metal Thunder. Rip Tease</h3>
                 </div>
             </div>
             <div class="row pt-5 my-5">
@@ -52,7 +52,7 @@
                         <iframe src="https://player.vimeo.com/video/272859841" width="100%" height="100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                     </div>
                     </div>
-                    <h3 class="mt-3">Mr. Big</h3>
+                    <h3 class="mt-3">Mr. Big (A Tribute to Rock 'n' Roll)</h3>
                 </div>
             </div>
             <div class="row pt-5 my-5">
