@@ -5,7 +5,7 @@
 <main class="et-main">
     <section class="et-slide" id="tab-lighter">
         <div class="container">
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -15,7 +15,7 @@
                     <h3 class="mt-3">Devil Music. Trailer</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -25,7 +25,7 @@
                     <h3 class="mt-3">My Trip With Jer</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -35,7 +35,7 @@
                     <h3 class="mt-3">The King Of Utah</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -45,7 +45,7 @@
                     <h3 class="mt-3">Heavy Metal Thunder. Rip Tease</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -55,7 +55,7 @@
                     <h3 class="mt-3">Mr. Big (A Tribute to Rock 'n' Roll)</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -65,7 +65,7 @@
                     <h3 class="mt-3">Salty Baths</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -75,7 +75,7 @@
                     <h3 class="mt-3">CheerStyle92</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -85,7 +85,7 @@
                     <h3 class="mt-3">Devil music. DeBaca County</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -95,7 +95,7 @@
                     <h3 class="mt-3">Devil Music. My Prelude</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -105,7 +105,7 @@
                     <h3 class="mt-3">Devil Music. Sit & Stay</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -115,7 +115,7 @@
                     <h3 class="mt-3">Nick’s Big Show. The Pitch. (Episode 1)</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -125,7 +125,7 @@
                     <h3 class="mt-3">Nick’s Big Show. Assembling The Crew. (Episode 2)</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -135,7 +135,7 @@
                     <h3 class="mt-3">Nick’s Big Show. Grass Roots. (Episode 3)</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -145,7 +145,7 @@
                     <h3 class="mt-3">Nick’s Big Show: Set It and Forget It. (Episode 4)</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -155,7 +155,7 @@
                     <h3 class="mt-3">Nick’s Big Show. The Show. (Episode 5)</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -165,7 +165,7 @@
                     <h3 class="mt-3">Nick’s Big Show: The Show Pt 2. (Episode 6)</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -179,7 +179,7 @@
     </section>
     <section class="et-slide" id="tab-darker">
         <div class="container">
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -193,7 +193,7 @@
     </section>
     <section class="et-slide" id="tab-advertising">
         <div class="container">
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -203,7 +203,7 @@
                     <h3 class="mt-3">Better Traction</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -213,7 +213,7 @@
                     <h3 class="mt-3">Job Shadow</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -223,7 +223,7 @@
                     <h3 class="mt-3">High Five</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -233,7 +233,7 @@
                     <h3 class="mt-3">Chair Wars</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -243,7 +243,7 @@
                     <h3 class="mt-3">Nicknames</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -253,7 +253,7 @@
                     <h3 class="mt-3">Tarantula</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -263,7 +263,7 @@
                     <h3 class="mt-3">Iron</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -273,7 +273,7 @@
                     <h3 class="mt-3">Blowtorch</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -283,7 +283,7 @@
                     <h3 class="mt-3">Nail</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -293,7 +293,7 @@
                     <h3 class="mt-3">Feathers</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -303,7 +303,7 @@
                     <h3 class="mt-3">Ice Fishing</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -317,7 +317,7 @@
     </section>
     <section class="et-slide" id="tab-bts">
         <div class="container">
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -327,7 +327,7 @@
                     <h3 class="mt-3">BTS Ford Clitaurus</h3>
                 </div>
             </div>
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
@@ -341,7 +341,7 @@
     </section>
     <section class="et-slide" id="tab-logo">
         <div class="container">
-            <div class="row pb-5 my-5">
+            <div class="row my-5">
                 <div class="col-12">
                     <div class="max mx-auto">
                     <div class='embed-container'>
