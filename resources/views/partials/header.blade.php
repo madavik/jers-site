@@ -1,13 +1,12 @@
-<div class="header bg-blue shadow-dark fixed-top">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 mt-2">
-                <h1 class="white my-0 times">Jer's Super Dope Site</h1>
-            </div>
-            <div class="col-12 d-flex flex-row align-items-center">
-                <div class="header-link py-1 times"><a href="/videos" class="white">Videos</a></div>
-                <!-- <div class="header-link px-2 py-1 times"><a href="/product" class="white">Product</a></div> -->
-            </div>
-        </div>
+<section class="et-hero-tabs">
+    <h1>Jer Jackson</h1>
+    <h3 class="mt-3">a few things</h3>
+    <div class="et-hero-tabs-container">
+        <a class="et-hero-tab" href="#tab-lighter">Lighter</a>
+        <a class="et-hero-tab" href="#tab-darker">Darker</a>
+        <a class="et-hero-tab" href="#tab-advertising">Advertising</a>
+        <a class="et-hero-tab" href="#tab-bts">BTS</a>
+        <a class="et-hero-tab" href="#tab-logo">Logo</a>
+        <span class="et-hero-tab-slider"></span>
     </div>
-</div>
+</section>
