@@ -1,4 +1,12 @@
 require('./bootstrap');
+$(document).ready(function(){
+    $('.et-slide').css('min-height', $(window).height());
+    $('.et-hero-tabs').css('min-height', $(window).height());
+});
+$(window).resize(function(){
+    $('.et-slide').css('min-height', $(window).height());
+    $('.et-hero-tabs').css('min-height', $(window).height());
+});
 class StickyNavigation {
 	
 	constructor() {
@@ -11,8 +19,7 @@ class StickyNavigation {
 		});
 		$(window).scroll(() => { this.onScroll(); });
 		$(window).resize(() => { this.onResize(); });
-	}
-	
+    }
 	onTabClick(event, element) {
 		event.preventDefault();
 		let scrollTop = $(element.attr('href')).offset().top - this.tabContainerHeight + 1;
@@ -69,8 +76,7 @@ class StickyNavigation {
 		}
 		$('.et-hero-tab-slider').css('width', width);
 		$('.et-hero-tab-slider').css('left', left);
-	}
-	
+    }	
 }
 
 new StickyNavigation();
